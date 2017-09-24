@@ -1,0 +1,18 @@
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\RepositorioDePuntoDeVentas.dll
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\RepositorioDePuntoDeVentas.pdb
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.pdb
+\\192.168.23.3\Compartido Visual A305\RepositorioDePuntoDeVentas\Presentacion\bin\Debug\Presentacion.exe.config
+\\192.168.23.3\Compartido Visual A305\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.exe
+\\192.168.23.3\Compartido Visual A305\RepositorioDePuntoDeVentas\Presentacion\obj\Debug\Presentacion.pdb

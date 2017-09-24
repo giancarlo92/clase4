@@ -1,0 +1,10 @@
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\bin\Debug\RepositorioDePuntoDeVentas.dll.config
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\bin\Debug\RepositorioDePuntoDeVentas.dll
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\bin\Debug\RepositorioDePuntoDeVentas.pdb
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\obj\Debug\RepositorioDePuntoDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\obj\Debug\RepositorioDePuntoDeVentas.dll
+C:\Users\Visual_Dom\Desktop\Clases\RepositorioDePuntoDeVentas\RepositorioDePuntoDeVentas\obj\Debug\RepositorioDePuntoDeVentas.pdb

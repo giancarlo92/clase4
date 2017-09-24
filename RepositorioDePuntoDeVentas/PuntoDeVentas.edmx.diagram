@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b4325cf0b1e64d5e87c83d646b9c9ef7" Name="Diagram1" ZoomLevel="25">
+        <EntityTypeShape EntityType="Repositorio.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Cliente_" Width="1.5" PointX="9.75" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Conductor_" Width="1.5" PointX="9.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.DetalleVenta_" Width="1.5" PointX="7.5" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Distrito_" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Documento_" Width="1.5" PointX="12" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Moneda_" Width="1.5" PointX="12.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Ordenador_" Width="1.5" PointX="9.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Retiro_" Width="1.5" PointX="15" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.SaldosIniciales_" Width="1.5" PointX="15" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Sincronizacion_" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.sysdiagrams" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Tarifa_local" Width="1.5" PointX="5.625" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.TipoAuto_" Width="1.5" PointX="3.625" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Turno_" Width="1.5" PointX="12" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Usuario_" Width="1.5" PointX="9.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Venta_" Width="1.5" PointX="12" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Repositorio.Zona_" Width="1.5" PointX="1.625" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Venta__dbo_Cliente__idCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Conductor__dbo_TipoAuto__idAuto" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Venta__dbo_Conductor__idConductor" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_DetalleVenta__dbo_Tarifa_local_idTarifa" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Tarifa_local_dbo_Distrito__idDistritoFin" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Tarifa_local_dbo_Distrito__idDistritoInicio" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Zona__dbo_Distrito__idDistrito" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Documento__dbo_Ordenador__idOrdenador" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Retiro__dbo_Moneda__idMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_SaldosIniciales__dbo_Moneda__idMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Venta__dbo_Moneda__idMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Retiro__dbo_Ordenador__idOrdenador" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Turno__dbo_Ordenador__idOrdenador" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Venta__dbo_Ordenador__idOrdenador" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Retiro__dbo_Turno__idTurno" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Retiro__dbo_Usuario__idUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Tarifa_local_dbo_TipoAuto__idTipoAuto" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Tarifa_local_dbo_Zona__idZonaFin" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Tarifa_local_dbo_Zona__idZonaInicio" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Turno__dbo_Usuario__idUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="Repositorio.FK_dbo_Venta__dbo_Usuario__idUsuario" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
